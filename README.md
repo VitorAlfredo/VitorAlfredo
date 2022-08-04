@@ -1,8 +1,8 @@
 ## Olá, eu sou o Vitor Alfredo
 
--🌱 Estudando programação web
+-🌱 Estudando programação front-end web
 
--👀 Tenho interesse em programação fullstack
+-👀 Tenho interesse na carreira full stack
  
 
 
